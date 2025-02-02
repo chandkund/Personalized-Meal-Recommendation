@@ -2,7 +2,7 @@
 
 This project focuses on building a personalized meal recommendation system by predicting cuisines based on the ingredients used. Leveraging NLP and a deep learning model, this system helps users discover meal options tailored to their preferences.
 
-## Project Overview
+## Project Overview 
 
 In this project, we classify cuisines based on ingredients using an LSTM-based neural network. The model is trained to predict the cuisine type given a list of ingredients, making it a useful tool for personalized meal recommendations. The system can be extended to provide suggestions for meal planning and grocery shopping.
 
