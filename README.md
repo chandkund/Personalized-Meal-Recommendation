@@ -6,7 +6,7 @@ This project focuses on building a personalized meal recommendation system by pr
 
 In this project, we classify cuisines based on ingredients using an LSTM-based neural network. The model is trained to predict the cuisine type given a list of ingredients, making it a useful tool for personalized meal recommendations. The system can be extended to provide suggestions for meal planning and grocery shopping.
 
-## Dataset Description
+## Dataset Description 
 
 - **Ingredients:** The ingredients used in the recipe. This is a text-based feature that requires preprocessing.   
 - **Cuisine:** The cuisine type (e.g., Italian, Indian, Mexican). This is the target variable for classification.  
