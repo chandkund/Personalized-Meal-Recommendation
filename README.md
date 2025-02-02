@@ -9,7 +9,7 @@ In this project, we classify cuisines based on ingredients using an LSTM-based n
 ## Dataset Description 
 
 - **Ingredients:** The ingredients used in the recipe. This is a text-based feature that requires preprocessing.    
-- **Cuisine:** The cuisine type (e.g., Italian, Indian, Mexican). This is the target variable for classification.  
+- **Cuisine:** The cuisine type (e.g., Italian, Indian, Mexican). This is the target variable for classification.   
 
 Sample data:
 
